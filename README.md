@@ -1,74 +1,191 @@
-<!--
-**diogods7/diogods7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  	
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F7FF,50:6A00FF,100:0F172A&text=Diogo%20Salgueiro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">Hi 👋, I'm Diogo Salgueiro</h1>
-
-<p align="center">
-Software Engineer • AI Integrations • Full Stack
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Integrations;Docker+%7C+Node.js+%7C+React;Infrastructure+%26+Cloud;Open+Source+LLMs" />
-</p>
-
-## 🚀 About Me
-
-- 🔭 Working with Air Traffic Control infrastructure
-- 🤖 Integrating Hugging Face and Open Source LLMs
-- ⚡ Building scalable backend systems with Node.js and BullMQ
-- ☁️ Working with Azure, AWS, Docker and cloud infrastructure
-- 📊 Monitoring systems with Zabbix and Grafana
-- 🧠 Passionate about AI, automation and distributed systems
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
+<h3 align="center">
+Software Engineer • AI Integrations • Infrastructure • Full Stack
+</h3>
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Integrations+with+Open+Source+LLMs;Node.js+%7C+Docker+%7C+Cloud+Infrastructure;Air+Traffic+Control+Systems;Scalable+Backend+Architecture;Monitoring+with+Grafana+and+Zabbix;Automation+and+Distributed+Systems"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+</div>
 
+---
+
+# 🚀 About Me
+
+```bash
+> Software Engineer based in Brazil
+> Focused on AI, Infrastructure and Scalable Systems
+```
+
+- 🔭 Working with mission-critical infrastructure for Air Traffic Control systems
+- 🤖 Integrating Hugging Face and Open Source LLMs into real-world applications
+- ⚡ Building scalable backends using Node.js, Redis and BullMQ
+- ☁️ Experience with Azure, AWS, Google Cloud and Docker
+- 📊 Monitoring systems using Grafana and Zabbix
+- 🧠 Passionate about Artificial Intelligence, automation and distributed systems
+- 🌎 Interested in Cloud Engineering, AI Infrastructure and DevOps
+
+---
+
+# 🧠 Current Focus
+
+```yaml
+AI:
+  - Hugging Face
+  - Open Source LLMs
+  - AI Automation
+  - Intelligent Systems
+
+Backend:
+  - Node.js
+  - TypeScript
+  - Redis
+  - BullMQ
+  - REST APIs
+
+Infrastructure:
+  - Docker
+  - Azure
+  - AWS
+  - Linux
+  - Monitoring
+
+Monitoring:
+  - Zabbix
+  - Grafana
+  - KPI Dashboards
+  - Observability
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,php,docker,redis,postgres,mongodb,aws,azure,gcp,firebase,linux,git,github"/>
+
+</div>
+
+---
+
+# ⚙️ Infrastructure & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,linux"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Technology | Experience |
+|---|---|
+| Docker | Containerized Applications |
+| Azure | Microsoft Ecosystem & Infrastructure |
+| AWS | Cloud Services |
+| Grafana | Monitoring & Dashboards |
+| Zabbix | Infrastructure Monitoring |
+| Redis | Queue Processing & Cache |
+| BullMQ | Scalable Background Jobs |
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open_Source_LLMs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Automation-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js_Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</div>
+
+<br>
+
+```txt
+Building AI-powered applications with:
+- Hugging Face
+- Open Source Models
+- Queue-based architectures
+- Automation pipelines
+- Distributed processing
+```
+
+---
+
+# 📡 Monitoring & Observability
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Observability-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Infrastructure_Monitoring-0f766e?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Job Automation Platform
+```txt
+Node.js • Redis • BullMQ • Hugging Face
+```
+
+AI-driven automation platform with scalable queue processing architecture.
+
+---
+
+## 📊 Infrastructure Monitoring Dashboard
+```txt
+Grafana • Zabbix • Docker
+```
+
+Real-time infrastructure monitoring and KPI analysis dashboards.
+
+---
+
+## 🏭 Bakery Order Management System
+```txt
+React • Node.js • PostgreSQL
+```
+
+Full-stack management platform for artisan factory operations.
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/diogosalgueiro7">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diogosalgueiro16@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F7FF,50:6A00FF,100:0F172A&section=footer"/>
+
+</div>
